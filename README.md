@@ -1,2 +1,2 @@
 # Instagram Comment Section Cleaner
- Removes bot comment spam for more pleasant coment section experience
+ Removes instagram bot comment spam for more pleasant coment section experience
